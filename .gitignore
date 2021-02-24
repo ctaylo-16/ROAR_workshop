@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+#* any thing of this type eg. ignore all pdfs
+*.pdf
+.DS_store
