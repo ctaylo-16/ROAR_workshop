@@ -16,6 +16,9 @@ This is a practice of Rmarkdown paper writing
 I HATE GITHUB
 truly the worst
 will this even work???
+
+
+using github desktop app only wya to make this work
 ```{r cars}
 summary(cars)
 
