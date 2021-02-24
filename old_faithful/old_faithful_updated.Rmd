@@ -1,7 +1,7 @@
 ---
 title: "Old Faithful exploratory analysis"
-author: "Rob Arbon"
-date: "09/11/2020"
+author: "Collette Taylor"
+date: "24/02/2021"
 output:
   html_document: default
 ---
