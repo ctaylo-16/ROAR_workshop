@@ -3,8 +3,9 @@ title: "analysis plan"
 author: "Collette"
 date: "24/02/2021"
 output:
-  html_document: default
+  word_document: default
   pdf_document: default
+  html_document: default
 ---
 ---
 title: "Analysis Plan"
