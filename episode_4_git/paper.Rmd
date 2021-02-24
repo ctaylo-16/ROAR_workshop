@@ -16,6 +16,7 @@ This is a practice of Rmarkdown paper writing
 
 ```{r cars}
 summary(cars)
+I HATE GITHUB
 ```
 
 ## methods
