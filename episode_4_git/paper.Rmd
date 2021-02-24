@@ -10,15 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-BAHBABHAHBAHA
+Introduction:
+This is a practice of Rmarkdown paper writing
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r cars}
 summary(cars)
 ```
 
-## Including Plots
+## methods
 
 You can also embed plots, for example:
 
@@ -26,4 +26,5 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+## Results 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
