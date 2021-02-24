@@ -12,12 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 Introduction:
 This is a practice of Rmarkdown paper writing
-
+I HATE GITHUB
+truly the worst
+is this working?
 
 ```{r cars}
 summary(cars)
-I HATE GITHUB
-truly the worst
+
 ```
 
 ## methods
